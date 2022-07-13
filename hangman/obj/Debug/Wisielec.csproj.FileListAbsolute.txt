@@ -1,0 +1,7 @@
+C:\Users\Lutek\source\repos\Wisielec\Wisielec\bin\Debug\Wisielec.exe.config
+C:\Users\Lutek\source\repos\Wisielec\Wisielec\bin\Debug\Wisielec.exe
+C:\Users\Lutek\source\repos\Wisielec\Wisielec\bin\Debug\Wisielec.pdb
+C:\Users\Lutek\source\repos\Wisielec\Wisielec\obj\Debug\Wisielec.csprojAssemblyReference.cache
+C:\Users\Lutek\source\repos\Wisielec\Wisielec\obj\Debug\Wisielec.csproj.CoreCompileInputs.cache
+C:\Users\Lutek\source\repos\Wisielec\Wisielec\obj\Debug\Wisielec.exe
+C:\Users\Lutek\source\repos\Wisielec\Wisielec\obj\Debug\Wisielec.pdb
